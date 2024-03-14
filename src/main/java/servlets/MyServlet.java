@@ -45,7 +45,7 @@ public class MyServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 
 		//API Key
-		String apiKey = "56ddcc2f183b2ab4b629d47468d89062";
+		String apiKey = ""; //Add your api key
 		// Get the city from the form input
 		String city = request.getParameter("city"); 
 
